@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: alwi assagaf
+2. Email: alwiassagafit@gmail.com
+3. Sistem Operasi yang digunakan:vscode
+4. Akun Github: alwiassagaf
+5. Akun Telegram: alwiassagaf
+6. Status (Bekerja/Mahasiswa): freelanch
+7. Umur: 21
+8. Pernah menggunakan Go? : tidak
+9. Bahasa Pemrograman yg pernah dipelajari: react js
+10. Pernah membuat REST API? : lupa
